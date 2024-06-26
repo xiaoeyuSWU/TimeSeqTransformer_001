@@ -1,3 +1,3 @@
 # TimeSeqTransformer_001
-我在Github上上传的这个TimeSeqTransformer是我2023年11月完成的版本。后续进行了无数次的版本迭代，直到现在还在进行。
+我在Github上上传的这个TimeSeqTransformer是我2023年11月完成的版本。后续进行了无数次的版本迭代，直到现在还在进行。  
 为了保证我的ts_token不被泄露，我对我的ts_token做了模糊化处理同时我只上传了去年11月的代码。
